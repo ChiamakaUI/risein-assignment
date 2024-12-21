@@ -7,7 +7,7 @@ yarn keygen
 ```
 
 ## airdrop.ts
-You can use the function in this file to claim 2 sol to your wallet address. To run the file
+You can use the function in this file to claim 2 or any amount of devnet sol to your wallet address. To run the file
 ```
 yarn airdrop
 ```
